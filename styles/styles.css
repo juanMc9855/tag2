@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@1,300&display=swap');
+
+.titulo1{
+    background-color: lightblue
+    font-size: 2rem;
+    color: white;
+    justify-content: center;
+    font-family: 'Bitter', serif;
+}
+.titulo2{
+font-family: 'Bitter', serif;
+}
+.titulo3{
+    font-family: 'Bitter', serif;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: transparent;
+    color: azure;
+    font-family: 'Bitter', serif;
+}
+button:hover{
+    background-color: black;
+}
+body{
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
